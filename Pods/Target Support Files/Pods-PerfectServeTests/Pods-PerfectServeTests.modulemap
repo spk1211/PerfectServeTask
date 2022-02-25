@@ -1,0 +1,6 @@
+framework module Pods_PerfectServeTests {
+  umbrella header "Pods-PerfectServeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

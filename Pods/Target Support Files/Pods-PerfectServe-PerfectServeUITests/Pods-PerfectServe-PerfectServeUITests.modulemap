@@ -1,0 +1,6 @@
+framework module Pods_PerfectServe_PerfectServeUITests {
+  umbrella header "Pods-PerfectServe-PerfectServeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
